@@ -1,0 +1,13 @@
+* {
+  background: palevioletred;
+}
+
+ul li{
+  float: left;
+  list-style: none;
+  line-height: 30px;
+}
+
+.clearfix{
+  clear: both;
+}
